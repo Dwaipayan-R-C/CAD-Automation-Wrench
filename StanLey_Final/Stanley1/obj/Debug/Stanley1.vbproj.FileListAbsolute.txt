@@ -1,0 +1,17 @@
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Stanley1.vbprojAssemblyReference.cache
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Stanley1.Form1.resources
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Stanley1.Resources.resources
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Stanley1.vbproj.GenerateResource.cache
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Stanley1.vbproj.CoreCompileInputs.cache
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Interop.SldWorks.dll
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Interop.SwCommands.dll
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Interop.SwConst.dll
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Interop.SWPublished.dll
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Stanley1.vbproj.ResolveComReference.cache
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\bin\Debug\Part Configurator!Wrench.exe.config
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\bin\Debug\Part Configurator!Wrench.exe
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\bin\Debug\Part Configurator!Wrench.pdb
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\bin\Debug\Part Configurator!Wrench.xml
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Part Configurator!Wrench.exe
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Part Configurator!Wrench.xml
+E:\Tandemloop\Project\WIP\Model_Specifications\Stanley1\obj\Debug\Part Configurator!Wrench.pdb
